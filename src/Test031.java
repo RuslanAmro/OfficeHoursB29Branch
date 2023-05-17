@@ -1,4 +1,4 @@
-package Test031
+package Test031;
 
 public class Test{
 
